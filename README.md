@@ -2,3 +2,5 @@
 
 
 ![Netflix Logo](https://github.com/HtunNaing-bit/netflix_sql_testproject/blob/main/logo.png)
+
+## Objective 
